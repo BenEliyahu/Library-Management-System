@@ -1,0 +1,52 @@
+﻿<UserControl x:Class="ProjectOOP.Views.DataView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    DataContext="{Binding Source={StaticResource Locator}, Path=dataView}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition MaxHeight="250"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <ListView VerticalAlignment="Top" Height="250" Width="500" SelectedItem="{Binding SelectItem}" ItemsSource="{Binding Collection}">
+            <ListView.View>
+                <GridView>
+                    <GridView.Columns>
+                        <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}"/>
+                        <GridViewColumn Header="Author" DisplayMemberBinding="{Binding Author}"/>
+                        <GridViewColumn Header="Published" DisplayMemberBinding="{Binding Publishing}"/>
+                        <GridViewColumn Header="Genre" DisplayMemberBinding="{Binding Genre}"/>
+                        <GridViewColumn Header="Price"  DisplayMemberBinding="{Binding Price}"/>
+                        <GridViewColumn Header="Discount" DisplayMemberBinding="{Binding Discount}"/>
+                        <GridViewColumn Header="ISBN" DisplayMemberBinding="{Binding ISBN}"/>
+                        <GridViewColumn Header="Categoty" DisplayMemberBinding="{Binding Category1}"/>
+                    </GridView.Columns>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <TextBlock Text="Edit Item:" FontSize="30" Grid.Row="1" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+        <StackPanel Grid.Row="1" HorizontalAlignment="Center" Margin="0,45,200,00">
+            <TextBlock Text="Name"/>
+            <TextBlock Text="Author" />
+            <TextBlock Text="Publishing"/>
+            <TextBlock Text="Genre"/>
+            <TextBlock Text="Price"/>
+            <TextBlock Text="Discount"/>
+            <TextBlock Text="ISBN"/>
+            <TextBlock Text="Category"/>
+        </StackPanel>
+        <StackPanel Grid.Row="1" Margin="80,45,0,0" Width="150" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <TextBox Text="{Binding EditName}" PreviewTextInput="WordValidationTextBox"/>
+            <TextBox Text="{Binding EditAuthor}"  PreviewTextInput="WordValidationTextBox"/>
+            <TextBox Text="{Binding EditPublishing}" PreviewTextInput="NumberValidationTextBox"/>
+            <TextBox Text="{Binding EditGenre}"  PreviewTextInput="WordValidationTextBox"/>
+            <TextBox Text="{Binding EditPrice}" PreviewTextInput="NumberValidationTextBox"/>
+            <TextBox Text="{Binding EditDiscount}" PreviewTextInput="NumberValidationTextBox"/>
+            <TextBox Text="{Binding EditISBN}" PreviewTextInput="NumberValidationTextBox"/>
+            <ComboBox ItemsSource="{Binding AbstractEnum}" SelectedItem="{Binding EditCategory}"/>
+        </StackPanel>
+        <Button Grid.Row="1" VerticalAlignment="Bottom" HorizontalAlignment="Center" Height="40" Width="150" Margin="0,0,40,0" Content="Edit" Command="{Binding Edit}" />
+    </Grid>
+</UserControl>
+    

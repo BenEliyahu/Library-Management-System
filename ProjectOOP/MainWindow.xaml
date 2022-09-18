@@ -1,0 +1,16 @@
+﻿<Window x:Class="ProjectOOP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:views="clr-namespace:ProjectOOP.Views" WindowStartupLocation="CenterScreen" Height="650" Width="1200">
+
+    <Grid Background="LightBlue">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition MaxWidth="300"/>
+            <ColumnDefinition/>
+            <ColumnDefinition MaxWidth="300"/>
+        </Grid.ColumnDefinitions>
+        <views:DataControlView/>
+        <views:DataResultView Grid.Column="2" />
+        <views:DataView Grid.Column="1"/>
+    </Grid>
+</Window>

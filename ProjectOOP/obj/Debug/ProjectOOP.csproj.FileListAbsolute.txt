@@ -1,0 +1,228 @@
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.csproj.AssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\MainWindow.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\App.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP_MarkupCompile.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP_MarkupCompile.lref
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\bin\Debug\ProjectOOP.exe.config
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\bin\Debug\ProjectOOP.exe
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\bin\Debug\ProjectOOP.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\bin\Debug\CommonServiceLocator.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\App.baml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\MainWindow.baml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.g.resources
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.Properties.Resources.resources
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.csproj.GenerateResource.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.csproj.CopyComplete
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.exe
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\Views\DataControlView.baml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\Views\DataControlView.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\Views\DataView.baml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\Views\DataView.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\bin\Debug\BookLib.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\bin\Debug\BookLib.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\Views\DataResultView.baml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\ProjectOOP\obj\Debug\Views\DataResultView.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\bin\Debug\ProjectOOP.exe.config
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\bin\Debug\ProjectOOP.exe
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\bin\Debug\ProjectOOP.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\bin\Debug\BookLib.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\bin\Debug\CommonServiceLocator.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\bin\Debug\BookLib.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\ProjectOOP.csproj.AssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\ProjectOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\Views\DataControlView.baml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\Views\DataResultView.baml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\Views\DataView.baml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\MainWindow.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\Views\DataControlView.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\Views\DataResultView.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\Views\DataView.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\App.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\ProjectOOP_MarkupCompile.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\ProjectOOP_MarkupCompile.lref
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\App.baml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\MainWindow.baml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\ProjectOOP.g.resources
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\ProjectOOP.Properties.Resources.resources
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\ProjectOOP.csproj.GenerateResource.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\ProjectOOP.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\ProjectOOP.csproj.CopyComplete
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\ProjectOOP.exe
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\ProjectOOP\obj\Debug\ProjectOOP.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\bin\Debug\ProjectOOP.exe.config
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\bin\Debug\ProjectOOP.exe
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\bin\Debug\ProjectOOP.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\bin\Debug\BookLib.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\bin\Debug\CommonServiceLocator.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\bin\Debug\BookLib.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\ProjectOOP.csproj.AssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\ProjectOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\Views\DataControlView.baml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\Views\DataResultView.baml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\Views\DataView.baml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\MainWindow.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\Views\DataControlView.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\Views\DataResultView.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\Views\DataView.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\App.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\ProjectOOP_MarkupCompile.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\ProjectOOP_MarkupCompile.lref
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\App.baml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\MainWindow.baml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\ProjectOOP.g.resources
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\ProjectOOP.Properties.Resources.resources
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\ProjectOOP.csproj.GenerateResource.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\ProjectOOP.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\ProjectOOP.csproj.CopyComplete
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\ProjectOOP.exe
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\ProjectOOP\obj\Debug\ProjectOOP.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\bin\Debug\ProjectOOP.exe.config
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\bin\Debug\ProjectOOP.exe
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\bin\Debug\ProjectOOP.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\bin\Debug\BookLib.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\bin\Debug\CommonServiceLocator.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\bin\Debug\BookLib.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\ProjectOOP.csproj.AssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\ProjectOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\Views\DataControlView.baml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\Views\DataResultView.baml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\Views\DataView.baml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\MainWindow.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\Views\DataControlView.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\Views\DataResultView.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\Views\DataView.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\App.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\ProjectOOP_MarkupCompile.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\ProjectOOP_MarkupCompile.lref
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\App.baml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\MainWindow.baml
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\ProjectOOP.g.resources
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\ProjectOOP.Properties.Resources.resources
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\ProjectOOP.csproj.GenerateResource.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\ProjectOOP.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\ProjectOOP.csproj.CopyComplete
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\ProjectOOP.exe
+C:\Users\97250\OneDrive\Desktop\ProjectOOP -real\ProjectOOP\obj\Debug\ProjectOOP.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\bin\Debug\ProjectOOP.exe.config
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\bin\Debug\ProjectOOP.exe
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\bin\Debug\ProjectOOP.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\bin\Debug\BookLib.dll
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\bin\Debug\CommonServiceLocator.dll
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\bin\Debug\BookLib.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.csproj.AssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\Views\DataControlView.baml
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\Views\DataResultView.baml
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\Views\DataView.baml
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\MainWindow.g.cs
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\Views\DataControlView.g.cs
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\Views\DataResultView.g.cs
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\Views\DataView.g.cs
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\App.g.cs
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP_MarkupCompile.cache
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP_MarkupCompile.lref
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\App.baml
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\MainWindow.baml
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.g.resources
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.Properties.Resources.resources
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.csproj.GenerateResource.cache
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.csproj.CopyComplete
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.exe
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\bin\Debug\ProjectOOP.exe.config
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\bin\Debug\ProjectOOP.exe
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\bin\Debug\ProjectOOP.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\bin\Debug\BookLib.dll
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\bin\Debug\CommonServiceLocator.dll
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\bin\Debug\BookLib.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\ProjectOOP.csproj.AssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\ProjectOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\Views\DataControlView.baml
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\Views\DataResultView.baml
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\Views\DataView.baml
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\MainWindow.g.cs
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\Views\DataControlView.g.cs
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\Views\DataResultView.g.cs
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\Views\DataView.g.cs
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\App.g.cs
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\ProjectOOP_MarkupCompile.cache
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\ProjectOOP_MarkupCompile.lref
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\App.baml
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\MainWindow.baml
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\ProjectOOP.g.resources
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\ProjectOOP.Properties.Resources.resources
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\ProjectOOP.csproj.GenerateResource.cache
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\ProjectOOP.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\ProjectOOP.csproj.CopyComplete
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\ProjectOOP.exe
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\ProjectOOP\obj\Debug\ProjectOOP.pdb

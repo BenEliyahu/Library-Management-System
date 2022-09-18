@@ -1,0 +1,21 @@
+<Application x:Class="ProjectOOP.App" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:local="clr-namespace:ProjectOOP" StartupUri="MainWindow.xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" d1p1:Ignorable="d" xmlns:d1p1="http://schemas.openxmlformats.org/markup-compatibility/2006">
+    <Application.Resources>
+        <ResourceDictionary>
+            <vm:ViewModelLocator x:Key="Locator" d:IsDataSource="True" xmlns:vm="clr-namespace:ProjectOOP.ViewModel" />
+            <Style TargetType="TextBlock">
+                <Setter Property="Margin" Value="9"/>
+            </Style>
+            <Style TargetType="TextBox">
+                <Setter Property="Margin" Value="8"/>
+            </Style>
+            <Style TargetType="Button">
+                <Setter Property="Background" Value="Blue"/>
+                <Setter Property="Foreground" Value="White"/>
+                <Setter Property="FontSize" Value="12"/>
+            </Style>
+            <Style TargetType="Border">
+                <Setter Property="CornerRadius" Value="8"/>     
+            </Style>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

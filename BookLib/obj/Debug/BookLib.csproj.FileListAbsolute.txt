@@ -1,0 +1,36 @@
+C:\Users\97250\OneDrive\Desktop\Katya\ProjectOOP\BookLib\bin\Debug\BookLib.dll
+C:\Users\97250\OneDrive\Desktop\Katya\ProjectOOP\BookLib\bin\Debug\BookLib.pdb
+C:\Users\97250\OneDrive\Desktop\Katya\ProjectOOP\BookLib\obj\Debug\BookLib.csproj.AssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\Katya\ProjectOOP\BookLib\obj\Debug\BookLib.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\Katya\ProjectOOP\BookLib\obj\Debug\BookLib.dll
+C:\Users\97250\OneDrive\Desktop\Katya\ProjectOOP\BookLib\obj\Debug\BookLib.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\BookLib\obj\Debug\BookLib.csproj.AssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\BookLib\obj\Debug\BookLib.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\BookLib\obj\Debug\BookLib.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\BookLib\obj\Debug\BookLib.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\BookLib\bin\Debug\BookLib.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP\BookLib\bin\Debug\BookLib.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\BookLib\bin\Debug\BookLib.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\BookLib\bin\Debug\BookLib.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\BookLib\obj\Debug\BookLib.csproj.AssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\BookLib\obj\Debug\BookLib.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\BookLib\obj\Debug\BookLib.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy\BookLib\obj\Debug\BookLib.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\BookLib\bin\Debug\BookLib.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\BookLib\bin\Debug\BookLib.pdb
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\BookLib\obj\Debug\BookLib.csproj.AssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\BookLib\obj\Debug\BookLib.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\BookLib\obj\Debug\BookLib.dll
+C:\Users\97250\OneDrive\Desktop\ProjectOOP - Copy - Copy\BookLib\obj\Debug\BookLib.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\BookLib\bin\Debug\BookLib.dll
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\BookLib\bin\Debug\BookLib.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\BookLib\obj\Debug\BookLib.csproj.AssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\BookLib\obj\Debug\BookLib.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\BookLib\obj\Debug\BookLib.dll
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\ProjectOOP\BookLib\obj\Debug\BookLib.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\BookLib\bin\Debug\BookLib.dll
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\BookLib\bin\Debug\BookLib.pdb
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\BookLib\obj\Debug\BookLib.csproj.AssemblyReference.cache
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\BookLib\obj\Debug\BookLib.csproj.CoreCompileInputs.cache
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\BookLib\obj\Debug\BookLib.dll
+C:\Users\97250\OneDrive\Desktop\תיק עבודות\LibraryProject\BookLib\obj\Debug\BookLib.pdb

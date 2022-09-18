@@ -1,0 +1,63 @@
+﻿<UserControl x:Class="ProjectOOP.Views.DataControlView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+               DataContext="{Binding Source={StaticResource Locator}, Path=dataControlView}">
+    <Grid>
+        <TabControl Background="LightSkyBlue">
+            <TabItem Header="Journal" Background="Beige">
+                <WrapPanel>
+                    <StackPanel>
+                        <TextBlock Text="Name"/>
+                        <TextBlock Text="Author" />
+                        <TextBlock Text="Published"/>
+                        <TextBlock Text="Genre"/>
+                        <TextBlock Text="Price"/>
+                        <TextBlock Text="Discount"/>
+                        <TextBlock Text="ISBN"/>
+                        <TextBlock Text="Category"/>
+                        <TextBlock Text="Legion"/>
+                    </StackPanel>
+                    <StackPanel>
+                        <TextBox Text="{Binding Name , Mode=TwoWay}" PreviewTextInput="WordValidationTextBox" />
+                        <TextBox Text="{Binding Author , Mode=TwoWay}"  PreviewTextInput="WordValidationTextBox"/>
+                        <TextBox Text="{Binding Publishing, Mode=TwoWay}" PreviewTextInput="NumberValidationTextBox"/>
+                        <TextBox Text="{Binding Genre , Mode=TwoWay}"  PreviewTextInput="WordValidationTextBox"/>
+                        <TextBox Text="{Binding Price, Mode=TwoWay}" PreviewTextInput="NumberValidationTextBox"/>
+                        <TextBox Text="{Binding Discount, Mode=TwoWay}" PreviewTextInput="NumberValidationTextBox"/>
+                        <TextBox Text="{Binding ISBN, Mode=TwoWay}" PreviewTextInput="NumberValidationTextBox"/>
+                        <ComboBox ItemsSource="{Binding AbstractEnum}" SelectedItem="{Binding Category1}"/>
+                        <TextBox Text="{Binding Legion, Mode=TwoWay}" PreviewTextInput="NumberValidationTextBox"/>
+                        <Button Content="Add Journal" VerticalAlignment="Bottom" Height="50" Width="200"  Command="{Binding AddJournalCommand}" />
+                    </StackPanel>
+                </WrapPanel>
+            </TabItem>
+            <TabItem Header="Book" Background="LightYellow">
+                <WrapPanel>
+                    <StackPanel>
+                        <TextBlock Text="Name"/>
+                        <TextBlock Text="Author" />
+                        <TextBlock Text="Publishing"/>
+                        <TextBlock Text="Genre"/>
+                        <TextBlock Text="Price"/>
+                        <TextBlock Text="Discount"/>
+                        <TextBlock Text="ISBN"/>
+                        <TextBlock Text="Category"/>
+                        <TextBlock Text="Series"/>
+                    </StackPanel>
+                    <StackPanel>
+                        <TextBox Text="{Binding Name , Mode=TwoWay}" PreviewTextInput="WordValidationTextBox"/>
+                        <TextBox Text="{Binding Author , Mode=TwoWay}"  PreviewTextInput="WordValidationTextBox"/>
+                        <TextBox Text="{Binding Publishing, Mode=TwoWay}" PreviewTextInput="NumberValidationTextBox"/>
+                        <TextBox Text="{Binding Genre , Mode=TwoWay}"  PreviewTextInput="WordValidationTextBox"/>
+                        <TextBox Text="{Binding Price, Mode=TwoWay}" PreviewTextInput="NumberValidationTextBox"/>
+                        <TextBox Text="{Binding Discount, Mode=TwoWay}" PreviewTextInput="NumberValidationTextBox"/>
+                        <TextBox Text="{Binding ISBN, Mode=TwoWay}" PreviewTextInput="NumberValidationTextBox"/>
+                        <ComboBox ItemsSource="{Binding AbstractEnum}" SelectedItem="{Binding Category1}"/>
+                        <TextBox Text="{Binding Series, Mode=TwoWay}" PreviewTextInput="NumberValidationTextBox"/>
+                        <Button Content="Add Book" VerticalAlignment="Bottom" Height="50" Width="200"  Command="{Binding AddBookCommand}" />
+                    </StackPanel>
+                </WrapPanel>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</UserControl>
